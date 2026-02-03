@@ -1,0 +1,32 @@
+[
+  {
+    "Dialogue": "I'm doing better, but I still have some discomfort now and then.",
+    "Sentiment": "Anxious",
+    "Intent": "Reporting symptoms",
+    "Confidence": 0.49
+  },
+  {
+    "Dialogue": "I'm a bit worried about my back pain, but I hope it gets better soon.",
+    "Sentiment": "Anxious",
+    "Intent": "Expressing concern",
+    "Confidence": 0.649
+  },
+  {
+    "Dialogue": "The first four weeks were rough. My neck and back pain were really bad.",
+    "Sentiment": "Anxious",
+    "Intent": "Reporting symptoms",
+    "Confidence": 0.466
+  },
+  {
+    "Dialogue": "That's a relief!",
+    "Sentiment": "Reassured",
+    "Intent": "Seeking reassurance",
+    "Confidence": 0.712
+  },
+  {
+    "Dialogue": "I had to take painkillers regularly.",
+    "Sentiment": "Anxious",
+    "Intent": "Reporting symptoms",
+    "Confidence": 0.506
+  }
+]

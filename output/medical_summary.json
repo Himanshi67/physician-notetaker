@@ -1,0 +1,16 @@
+{
+  "Patient_Name": "Jones",
+  "Symptoms": [
+    "Neck pain",
+    "Sleep disturbance",
+    "Back pain",
+    "Head impact",
+    "Stiffness"
+  ],
+  "Diagnosis": "Whiplash Injury",
+  "Treatment": [
+    "Painkillers"
+  ],
+  "Current_Status": "Occasional backache",
+  "Prognosis": "Full recovery expected within six months"
+}

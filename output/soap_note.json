@@ -1,0 +1,20 @@
+{
+  "Subjective": {
+    "Chief_Complaint": "Neck and back pain following motor vehicle accident",
+    "History_of_Present_Illness": "Patient was involved in a rear-end collision on September 1st. Experienced immediate onset of neck and back pain after hitting head on steering wheel. Pain was severe for the first four weeks, requiring regular painkillers and causing sleep disturbance. Underwent 10 sessions of physiotherapy. Currently experiencing occasional back pain, significantly improved from initial presentation."
+  },
+  "Objective": {
+    "Physical_Exam": "Full range of motion in cervical and lumbar spine. No tenderness on palpation. No signs of neurological deficit. Muscles and spine in good condition.",
+    "Observations": "Patient appears in normal health with normal gait and posture."
+  },
+  "Assessment": {
+    "Diagnosis": "Whiplash Injury",
+    "Severity": "Mild, improving",
+    "Clinical_Impression": "Patient demonstrating good recovery from whiplash injury sustained in MVA. No evidence of long-term structural damage or neurological complications."
+  },
+  "Plan": {
+    "Treatment": "Continue physiotherapy as needed for residual discomfort. Use over-the-counter analgesics for pain relief as required.",
+    "Follow_Up": "Patient advised to return if symptoms worsen or persist beyond six months. Expected full recovery within six months from date of accident.",
+    "Patient_Education": "Counseled on proper posture and ergonomics. Reassured regarding excellent prognosis and no expected long-term impact."
+  }
+}
